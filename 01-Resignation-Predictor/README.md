@@ -33,6 +33,26 @@
 | `City` / `State`  | ✅ Yes                                     | Geography may affect turnover              |
 | `Birthdate`       | ✅ Yes (convert to age)                    | Age may correlate with turnover            |
 
+## k_means
+| Column                          | Include? | Why?                                                   |
+| ------------------------------- | -------- | ------------------------------------------------------ |
+| `Current_Role`                  | ✅\*      | Categorical – can be encoded                           |
+| `Zip Code`                      | ❌        | Not meaningful unless regionally relevant              |
+| `Employee_ID`                   | ❌        | Just an identifier                                     |
+| `Employee Annual Salary$`       | ✅        | Strong signal for segmentation                         |
+| `Monthly Medical contribution$` | ✅        | Related to benefits, may correlate with salary or role |
+| `Monthly Dental Contribution$`  | ✅        | Same as above                                          |
+| `Monthly Vision Contribution$`  | ✅        | Same as above                                          |
+| `Bonus $`                       | ✅        | Performance-related, very useful                       |
+| `Years_Of_Service`              | ✅        | Measures tenure                                        |
+| `Department`                    | ✅\*      | Categorical – must be encoded                          |
+| `Gender`                        | ✅\*      | Categorical – encode with care                         |
+| `Employee HR rate`              | ✅        | Useful if it’s numeric                                 |
+| `# of Hours per week`           | ✅        | Workload – can be a factor                             |
+| `Years_Since_Last_Promotion`    | ✅        | Indicates career progression                           |
+| `age`                           | ✅        | Very important for HR clustering                       |
+| `left`                          | ❌        | This is the target, do not include in clustering       |
+
 # Accuracy
 ```bash
 Positive = 1 = left 
