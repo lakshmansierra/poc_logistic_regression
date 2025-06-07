@@ -1,0 +1,104 @@
+Feature,Weight
+Employee_Annual_Salary,0.17843702170864922
+Monthly_Medical_contribution,-0.05026632910525271
+Monthly_Dental_Contribution,-0.05026632910525283
+Monthly_Vision_Contribution,-0.050266329105252645
+Bonus,0.10620619348575377
+Years_Of_Service,0.5776675017277031
+Employee_HR_rate,-0.2817648720706651
+Hours_per_week,0.0
+Years_Since_Last_Promotion,2.2473834622100317
+age,-0.31678082112360684
+Cluster_label,-0.29087729732261847
+Current_Role_Associate Data Scientist,0.0002165041686934242
+Current_Role_Associate Product Manager,0.000328716299595059
+Current_Role_Business Analyst,-0.0012946545488099466
+Current_Role_Chief Operating Officer,0.160854273883951
+Current_Role_Chief Technology Officer,-0.2699563600409707
+Current_Role_Content Strategist,-0.003417102300650229
+Current_Role_Content Writer,-0.004533389884505546
+Current_Role_Customer Success Manager,0.00020279495129185688
+Current_Role_Customer Support Specialist,0.0
+Current_Role_Data Analyst,-0.005868548583691248
+Current_Role_Data Scientist,-0.000982823442987347
+Current_Role_Design Director,0.05275654668303474
+Current_Role_DevOps Engineer,0.0
+Current_Role_Director of HR,0.1728058935087936
+Current_Role_Director of Operations,0.25489012720560555
+Current_Role_Director of Product,-0.09866743362308793
+Current_Role_Engineering Manager,-0.06219840280520095
+Current_Role_Financial Analyst,-0.019320780899745493
+Current_Role_Financial Planning Analyst,-0.002286995751771686
+Current_Role_HR Business Partner,-0.025563811547111615
+Current_Role_HR Coordinator,0.0
+Current_Role_HR Manager,-0.0015023252610296908
+Current_Role_HR Specialist,-0.011441620854267137
+Current_Role_Junior Data Analyst,0.0
+Current_Role_Junior Data Scientist,0.00032521929508219004
+Current_Role_Junior Product Designer,0.0
+Current_Role_Junior Software Engineer,0.0003245915324442038
+Current_Role_Junior UX Designer,0.0002112376881842268
+Current_Role_Lead Data Engineer,-0.05603203776697823
+Current_Role_Lead Data Scientist,0.0
+Current_Role_Lead DevOps Engineer,-0.02141043508202048
+Current_Role_Lead Product Manager,-0.11421872584882814
+Current_Role_Lead Software Developer,-0.009197165206644257
+Current_Role_Lead Software Engineer,-0.017616020786218094
+Current_Role_Lead UX Designer,-0.11339643052758291
+Current_Role_Marketing Coordinator,0.0
+Current_Role_Marketing Manager,0.0
+Current_Role_Marketing Specialist,-0.0029883290762215357
+Current_Role_Operations Analyst,-0.005376742249950405
+Current_Role_Operations Coordinator,0.00033976722790049447
+Current_Role_Principal Engineer,0.24081956833022838
+Current_Role_Principal Product Designer,-0.0424836530000104
+Current_Role_Principal Product Manager,-0.11496818149841194
+Current_Role_Principal Software Engineer,0.23447046383430353
+Current_Role_Product Designer,-0.008986584298812106
+Current_Role_Product Director,-0.10496434037958034
+Current_Role_Product Lead,0.0
+Current_Role_Product Manager,-0.002468919256906802
+Current_Role_Product Marketing Manager,-0.003541786725746692
+Current_Role_Project Manager,-0.000900483466295897
+Current_Role_Sales Director,0.0
+Current_Role_Sales Representative,-0.038854908774190615
+Current_Role_Senior Account Executive,-0.020256299554319093
+Current_Role_Senior Account Manager,0.38971484236132503
+Current_Role_Senior Business Analyst,-0.004419795797151532
+Current_Role_Senior Content Writer,-0.002036096073529195
+Current_Role_Senior DevOps Engineer,-0.1373941090620618
+Current_Role_Senior Financial Analyst,0.3102247332841835
+Current_Role_Senior HR Manager,0.0
+Current_Role_Senior Marketing Manager,0.0
+Current_Role_Senior Marketing Specialist,0.0
+Current_Role_Senior Product Manager,-0.021244960460069125
+Current_Role_Senior Project Manager,0.0
+Current_Role_Senior Sales Executive,-0.04730867438008008
+Current_Role_Senior Sales Manager,-0.08474117729640972
+Current_Role_Senior Sales Representative,-0.06649094287551757
+Current_Role_Senior Software Engineer,-0.006595954092971133
+Current_Role_Senior UX Designer,-0.008710484422407648
+Current_Role_Software Engineer,-0.00801680162297321
+Current_Role_Staff Engineer,-0.10627967947307314
+Current_Role_Systems Administrator,0.0001550821303920682
+Current_Role_Technical Director,0.0
+Current_Role_Technical Lead,0.0
+Current_Role_Technical Writer,0.0005516878153909819
+Current_Role_UX Designer,-0.011010489545336318
+Current_Role_UX Researcher,-0.002736780827121728
+Current_Role_VP of Technology,-0.11771384101127859
+Department_Customer Support,0.00020279495129185688
+Department_Data Science,-0.06234168632988123
+Department_Design,-0.13435663825005223
+Department_Engineering,0.10745774338120404
+Department_Executive,-0.22681592716829832
+Department_Finance,0.2829025062867048
+Department_Human Resources,0.13429813584638522
+Department_IT,0.0001550821303920682
+Department_Marketing,-0.016516704060653198
+Department_Operations,0.24985315218355558
+Department_Product,-0.4571043282335851
+Department_Sales,0.13206283948080796
+Gender_Female,0.27715983066803
+Gender_Male,-0.18690065033458308
+Gender_Non-Binary,-0.08046221011557526
