@@ -1,5 +1,5 @@
-Employee_ID,Actual,Predicted
-76,1,1
-121,0,0
-103,0,0
-75,0,1
+Employee_ID,Actual,Predicted,primary_attrition_feature,secondary_attrition_feature,tertiary_attrition_feature
+76,1,1,Years_Since_Last_Promotion,Years_Of_Service,Department_Operations
+121,0,0,Years_Since_Last_Promotion,Years_Of_Service,Department_Operations
+103,0,0,Years_Since_Last_Promotion,Years_Of_Service,Department_Operations
+75,0,1,Years_Since_Last_Promotion,Years_Of_Service,Department_Operations
