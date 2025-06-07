@@ -1,0 +1,27 @@
+Current_Role,Zip_Code,Employee_ID,Employee_Annual_Salary,Monthly_Medical_contribution,Monthly_Dental_Contribution,Monthly_Vision_Contribution,Bonus,Years_Of_Service,Department,Gender,Employee_HR_rate,Hours_per_week,Years_Since_Last_Promotion,age,left
+Associate Data Scientist,94111,58,74250,105,30,17,4344,1.7,Data Science,Non-Binary,117,40,1.5742642026009583,29,0
+Associate Product Manager,10009,59,125850,130,35,19,15920,1.3,Product,Non-Binary,147,40,1.2566735112936345,31,0
+Business Analyst,60605,60,84750,105,30,17,5890,3.9,Finance,Female,153,40,2.308008213552361,31,0
+Content Strategist,10005,64,89300,105,30,17,5849,3.1,Marketing,Female,113,40,2.1738535249828885,26,0
+Customer Support Specialist,10003,67,93400,105,30,17,5978,2.8,Customer Support,Male,141,40,1.8124572210814511,27,0
+Data Scientist,94102,71,91400,105,30,17,6307,3.8,Data Science,Male,139,40,2.4202600958247777,26,0
+Financial Analyst,60605,82,84750,105,30,17,5890,3.9,Finance,Female,123,40,2.3655030800821355,27,0
+Financial Analyst,60601,83,83000,105,30,17,5478,3.2,Finance,Male,149,40,2.1464750171115674,26,0
+Financial Planning Analyst,60605,84,84000,105,30,17,5712,3.6,Finance,Female,133,40,2.078028747433265,28,0
+HR Business Partner,2107,86,93500,105,30,17,6779,4.5,Human Resources,Female,105,40,2.855578370978782,29,0
+HR Business Partner,2107,87,93800,105,30,17,6847,4.6,Human Resources,Female,125,40,3.0444900752908968,30,0
+HR Coordinator,2107,88,65800,105,30,17,4244,2.9,Human Resources,Female,95,40,1.9822039698836411,26,0
+HR Coordinator,2107,89,69000,105,30,17,5003,4.5,Human Resources,Female,145,40,2.7186858316221767,32,0
+HR Specialist,2107,92,99700,105,30,17,7428,4.9,Human Resources,Female,135,40,3.293634496919918,31,0
+Junior Data Analyst,94111,93,78000,105,30,17,4368,1.2,Data Science,Non-Binary,157,40,1.158110882956879,23,0
+Junior Data Scientist,94111,95,64500,105,30,17,3806,1.8,Data Science,Non-Binary,87,40,1.379876796714579,25,0
+Junior Product Designer,78731,96,64750,105,30,17,3853,1.9,Design,Non-Binary,127,40,1.4209445585215603,30,0
+Junior Software Engineer,94111,97,63750,105,30,17,3666,1.5,Engineering,Non-Binary,97,40,1.2566735112936345,26,0
+Junior Software Engineer,94111,98,63750,105,30,17,3666,1.5,Engineering,Non-Binary,137,40,1.273100616016427,30,0
+Junior UX Designer,78731,99,63000,105,30,17,3528,1.2,Design,Non-Binary,107,40,1.3935660506502396,28,0
+Marketing Coordinator,10005,108,66800,105,30,17,4476,3.4,Marketing,Female,143,40,1.8781656399726212,30,0
+Marketing Specialist,10005,111,96100,105,30,17,6583,3.7,Marketing,Female,103,40,2.242299794661191,26,0
+Operations Analyst,98101,113,84000,105,30,17,5712,3.6,Operations,Male,159,40,2.212183436002738,27,0
+Systems Administrator,94104,148,87200,105,30,17,5406,2.4,IT,Male,131,40,1.5797399041752225,26,0
+Technical Writer,98103,152,88100,105,30,17,5594,2.7,Engineering,Male,151,40,1.7138945927446954,28,0
+UX Researcher,78703,155,87800,105,30,17,5531,2.6,Design,Male,121,40,1.6454483230663928,24,0
