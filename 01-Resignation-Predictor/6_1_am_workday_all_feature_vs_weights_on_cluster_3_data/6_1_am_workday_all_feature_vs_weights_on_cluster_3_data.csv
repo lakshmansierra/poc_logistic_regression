@@ -1,0 +1,50 @@
+Feature,Weight
+Employee_Annual_Salary,0.09057662182066854
+Monthly_Medical_contribution,0.023687106427792617
+Monthly_Dental_Contribution,0.023687106427792627
+Monthly_Vision_Contribution,0.02368710642779264
+Bonus,0.07858455708806411
+Years_Of_Service,0.556180364605667
+Employee_HR_rate,-0.40189165238220137
+Hours_per_week,0.0
+Years_Since_Last_Promotion,1.3250367980416482
+age,-0.32628827339247296
+Current_Role_HR Manager,-0.022818191225765352
+Current_Role_Lead Data Engineer,-0.06753013099351188
+Current_Role_Lead Data Scientist,0.0
+Current_Role_Lead DevOps Engineer,-0.0368235339409768
+Current_Role_Lead Software Developer,-0.01064792181163446
+Current_Role_Lead Software Engineer,-0.027016898508566665
+Current_Role_Lead UX Designer,-0.13939552710894476
+Current_Role_Product Designer,-0.004559037737669786
+Current_Role_Product Lead,0.3608691790699717
+Current_Role_Product Marketing Manager,-0.008803622890716848
+Current_Role_Project Manager,-0.005243816441296809
+Current_Role_Senior Account Executive,-0.0229825539648966
+Current_Role_Senior Account Manager,0.3530217988593619
+Current_Role_Senior Business Analyst,-0.009733845385917319
+Current_Role_Senior Content Writer,-0.004369602297314218
+Current_Role_Senior DevOps Engineer,0.0
+Current_Role_Senior Financial Analyst,0.22428810306442562
+Current_Role_Senior HR Manager,-0.10776462083665557
+Current_Role_Senior Marketing Manager,-0.006043817922821494
+Current_Role_Senior Marketing Specialist,-0.002283844974965381
+Current_Role_Senior Product Manager,-0.09871258946457845
+Current_Role_Senior Project Manager,0.0
+Current_Role_Senior Sales Executive,0.0
+Current_Role_Senior Sales Manager,-0.10403304146577542
+Current_Role_Senior Sales Representative,-0.07091970522858264
+Current_Role_Senior UX Designer,-0.00997985734014953
+Current_Role_Staff Engineer,0.0
+Current_Role_Technical Lead,-0.1786163704934706
+Department_Data Science,-0.06753013099351188
+Department_Design,-0.1539344221867641
+Department_Engineering,-0.25310472475464857
+Department_Finance,0.21455425767850836
+Department_Human Resources,-0.13058281206242092
+Department_Marketing,-0.021500888085817942
+Department_Product,0.25691277316409644
+Department_Sales,0.15508649820010723
+Gender_Female,0.2762065080598661
+Gender_Male,-0.1757772844290975
+Gender_Non-Binary,-0.10052867267121988
