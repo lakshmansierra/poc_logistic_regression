@@ -1,0 +1,10 @@
+Current_Role,Zip_Code,Employee_ID,Employee_Annual_Salary,Monthly_Medical_contribution,Monthly_Dental_Contribution,Monthly_Vision_Contribution,Bonus,Years_Of_Service,Department,Gender,Employee_HR_rate,Hours_per_week,Years_Since_Last_Promotion,age,left
+Chief Operating Officer,2101,61,300000,230,55,27,90000,15.2,Executive,Female,79,40,5.796030116358659,41,1
+Chief Technology Officer,98102,62,300000,230,55,27,90000,14.7,Executive,Male,70,40,4.517453798767967,40,0
+Design Director,78702,75,218200,180,45,23,49859,9.7,Design,Female,110,40,4.82135523613963,38,0
+Director of Product,10010,78,213400,180,45,23,47908,8.9,Product,Female,138,40,4.988364134154689,38,0
+Principal Engineer,98106,115,189000,155,40,21,37611,9.8,Engineering,Male,84,40,1.8535249828884328,39,0
+Principal Software Engineer,98102,119,190000,155,40,21,38000,10.2,Engineering,Female,100,40,5.06776180698152,38,1
+Product Director,10010,121,209200,180,45,23,46233,8.2,Product,Female,128,40,4.862422997946612,38,0
+Technical Director,94103,149,220000,180,45,23,50600,10.5,Engineering,Female,120,40,5.5277207392197125,40,1
+VP of Technology,98109,156,300000,230,55,27,90000,12.3,Executive,Female,67,40,3.972621492128679,35,0
